@@ -46,14 +46,7 @@ To analyze customer purchase patterns, spending behavior, and segmentation trend
 
 ---
 
-## 📁 Project Files
 
-- `Customer_Shopping_Behavior_Analysis.ipynb`
-- `customer_behavior_sql_queries.sql`
-- `customer_behavior_dashboard.pbix`
-- `customer_shopping_behavior.csv`
-
----
 
 ## 📜 License
 MIT License
